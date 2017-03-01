@@ -8,4 +8,4 @@ m64p comes bundled with [GLideN64](https://github.com/gonetz/GLideN64) for the g
 
 ## TODO
 
-mupen64plus-gui doesn't yet support controller configuration, but it's coming! It does support auto-configuration, so most controllers should work without any need for intervention/
+mupen64plus-gui doesn't yet support controller configuration, but it's coming! It does support auto-configuration, so most controllers should work without any need for intervention.

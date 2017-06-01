@@ -8,6 +8,6 @@ m64p comes bundled with [GLideN64](https://github.com/gonetz/GLideN64) for the g
 
 ### Compatibility ###
 
-This is likely the most compatible version of mupen64plus you're going to come across. It can play games like Resident Evil 2, Rogue Squadron, and World Driver Championship "out-of-the-box" (without the need to fiddle with settings, plugins or anything of the sort).
+This is likely the most compatible version of mupen64plus you're going to come across. It can play games like Resident Evil 2, Rogue Squadron, Pokemon Snap, and World Driver Championship "out-of-the-box" (without the need to fiddle with settings, plugins or anything of the sort).
 
 Give it a try, you won't be disappointed. There is no installer, just unzip and play!

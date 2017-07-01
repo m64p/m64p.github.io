@@ -22,4 +22,4 @@ I am only aware of 6 games that work on Project64 and not here:
 
 Unless you'd like to play one of those games, this should provide you a good alternative to Project64.
 
-If you know of any other games that work better on Project64, I would love to hear about it here: https://github.com/m64p/mupen64plus-GLideN64/issues
+If you know of any other games that work better on Project64, I would love to hear about it [here](https://github.com/m64p/mupen64plus-GLideN64/issues)

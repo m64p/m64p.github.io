@@ -12,12 +12,10 @@ This is likely the most compatible version of mupen64plus you're going to come a
 
 Give it a try, you won't be disappointed. There is no installer, just unzip and play!
 
-I am only aware of 5 games that work on Project64 and not here:
+I am only aware of 3 games that work on Project64 and not here:
 * All-Star Baseball 2000
 * All-Star Baseball 2001
 * NFL Quarterback Club 99
-* International Track & Field 2000
-* Midway's Greatest Arcade Hits Vol. 1
 
 Unless you'd like to play one of those games, this should provide you a good alternative to Project64.
 

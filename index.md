@@ -1,6 +1,6 @@
 ## Welcome to m64p (mupen64plus + GLideN64 + a GUI)
 
-You can download binary builds for Windows and Linux [here](http://m64p.s3-website-us-east-1.amazonaws.com/).
+The links to download binary builds for Windows and Linux are in the sidebar.
 
 m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand new mupen64plus frontend written in Qt5. It supports all thing things you'd expect from a frontend (savestate management, pausing, screenshots, etc..).
 

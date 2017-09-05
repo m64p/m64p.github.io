@@ -1,6 +1,7 @@
 Sept 5, 2017
  - Addition of Angrylion RDP Plus video plugin.
  - zip and 7z support
+ - bug in input plugin fixed that caused some moves to be missed (ground pound in Yoshi's Story, boost in Ep 1 Racer...)
 
 Sept 4, 2017
  - Allow changing input plugin in mupen64plus-gui

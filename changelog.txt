@@ -1,3 +1,9 @@
+Sept 8, 2017
+ - Updated Angrylion RDP Plus
+ - Fixed fullscreen toggling in Linux
+Sept 6, 2017
+ - Fixed a crash in the plugin settings dialog of mupen64plus-gui
+ - Fixed a crash in Cruis'n Exotica
 Sept 5, 2017
  - Addition of Angrylion RDP Plus video plugin.
  - zip and 7z support

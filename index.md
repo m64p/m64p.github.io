@@ -6,6 +6,10 @@ m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand ne
 
 m64p comes bundled with [GLideN64](https://github.com/gonetz/GLideN64) for the graphics plugin. It should give you the best out-of-the-box experience available for N64 gaming.
 
+### Starting with a fresh config ###
+
+If you've ever used any version of mupen64plus before, you might have a configuration file saved on your computer. I suggest starting with a fresh config if this is your first time here. Go to ***Settings->Core and Plugin Settings***. At the bottom click on ***Reset All Settings***.
+
 ### Compatibility ###
 
 This is likely the most compatible N64 emulator you're going to come across. It can play games like Resident Evil 2, Rogue Squadron, Pokemon Snap, and World Driver Championship "out-of-the-box" (without the need to fiddle with settings, plugins or anything of the sort).

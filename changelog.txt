@@ -1,5 +1,13 @@
+Sept 19, 2017
+ - Switch to audio-sdl2 plugin
+ - Default to rsp-hle plugin (fallback to cxd4 rsp when needed)
+Sept 18, 2017
+ - Update GLideN64
+ - mupen64plus-gui: Add --nogui option, add "View Log" option
 Sept 14, 2017
- - mupen64plus-core: Switched from adler32 to xxHash for code hashing. Fixed duplicate saves in Paper Mario. Remove DelaySI hack/option. Fix floating point registers (taken from PJ64), fixes graphical errors in Factor5 games and polygon tearing in DK64.
+ - mupen64plus-core: Switched from adler32 to xxHash for code hashing.
+   Fixed duplicate saves in Paper Mario. Remove DelaySI hack/option. 
+   Fix floating point registers (taken from PJ64), fixes graphical errors in Factor5 games and polygon tearing in DK64.
 Sept 13, 2017
  - GLideN64 updates (config options now appear on first boot, even if you haven't played a game yet, microcode fixes)
  - mupen64plus-core: Removed CountPerScanline and AudioSignal hacks/options. Fixed Perfect Dark in LLE

@@ -16,4 +16,4 @@ This is likely the most compatible N64 emulator you're going to come across. It 
 
 Give it a try, you won't be disappointed. There is no installer, just unzip and play!
 
-If you know of any games that work better on Project64, I would love to hear about it [here](https://github.com/m64p/mupen64plus-GLideN64/issues)
+If you run into any issues, I would love to hear about it [here](https://github.com/m64p/mupen64plus-GLideN64/issues)

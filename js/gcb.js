@@ -97,9 +97,9 @@
             "href": _this.commit_url
           }).text(truncate(data.data.sha, COMMIT_DISPLAYED_ID_LENGTH, ""));
           $("span.text-date", _this.selector).text(" " + (parseDate(data.data.commit.committer.date)));
-          $("span.committer", _this.selector).text(data.data.commit.committer.name);
-          $("span.email", _this.selector).text(" <" + data.data.commit.committer.email + ">");
-          $("div.commitmessage", _this.selector).text(data.data.commit.message);
+        //  $("span.committer", _this.selector).text(data.data.commit.committer.name);
+        //  $("span.email", _this.selector).text(" <" + data.data.commit.committer.email + ">");
+      //    $("div.commitmessage", _this.selector).text(data.data.commit.message);
           $("a.showMoreLink", _this.selector).attr("id", "showMoreLink_" + _this.name);
           $("div.diffstat span.diffadded", _this.selector).before(added);
           $("div.diffstat span.diffremoved", _this.selector).before(removed);

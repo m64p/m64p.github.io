@@ -1,0 +1,97 @@
+#gcb-container {
+  width: 580px;
+  color: #333;
+  font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+  #gcb-container .outline {
+    border: 1px solid #AAAAAA;
+    overflow: auto;
+    margin: 8px;
+    padding: 5px;
+    padding-top: 2px;
+    border-radius: 4px;
+    background-color: whitesmoke;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    box-sizing: border-box;
+    color: #333333; }
+  #gcb-container .username {
+    margin: 1px 0px 4px 0px;
+    height: 17px;
+    color: gray; }
+  #gcb-container .diffline {
+    font-weight: normal;
+    font-size: 14px; }
+  #gcb-container .commitmessage {
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: 1.2em;
+    max-height: 1.2em;
+    -webkit-transition: max-height 1s ease;
+    -moz-transition: max-height 1s ease;
+    transition: max-height 1s ease;
+    overflow: hidden;
+    white-space: pre; }
+    #gcb-container .commitmessage .octicon {
+      margin-right: 5px;
+      opacity: 0.5; }
+  #gcb-container .quote {
+    margin: 0px 5px 0px 5px;
+    float: left; }
+  #gcb-container .diffstat {
+    font-weight: normal; }
+  #gcb-container .badge {
+    color: gray;
+    font: 13px normal 'Droid Sans Mono', 'Consolas', 'Lucida Console', 'Courier New', monospace; }
+  #gcb-container .username a {
+    color: #4183C4;
+    text-decoration: none; }
+  #gcb-container .text-date {
+    color: #C44040; }
+  #gcb-container .committer {
+    color: #43651F; }
+  #gcb-container .email {
+    color: #69A031;
+    font-weight: normal; }
+  #gcb-container span.diffadded {
+    color: #6CC644; }
+  #gcb-container span.diffremoved {
+    color: #BD2C00; }
+  #gcb-container span.diffmodified {
+    color: #d0b44c; }
+  #gcb-container .gravatar {
+    border: 1px solid #aaaaaa;
+    border-radius: 6px;
+    float: left;
+    margin: 2px 5px 2px 2px;
+    width: 60px; }
+  #gcb-container .filelist {
+    margin-top: 15px; }
+    #gcb-container .filelist ul {
+      list-style: none;
+      margin: 0; }
+      #gcb-container .filelist ul li {
+        margin-left: 5px; }
+        #gcb-container .filelist ul li span {
+          margin-right: 5px; }
+          #gcb-container .filelist ul li span.octicon-diff-added {
+            color: #6CC644; }
+          #gcb-container .filelist ul li span.octicon-diff-removed {
+            color: #BD2C00; }
+          #gcb-container .filelist ul li span.octicon-diff-modified {
+            color: #d0b44c; }
+  #gcb-container .showMore {
+    display: inline;
+    float: right;
+    margin-top: -18px;
+    opacity: 0.5; }
+  #gcb-container div.outline:hover .showMore {
+    display: inline; }
+  #gcb-container a {
+    font-weight: bold; }
+  #gcb-container .username a:hover,
+  #gcb-container .badge:hover,
+  #gcb-container .showMoreLink:hover {
+    text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */

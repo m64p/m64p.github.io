@@ -2,7 +2,7 @@
 
 The links to download binary builds for Windows and Linux are in the sidebar.
 
-m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand new mupen64plus frontend written in Qt5. It supports all thing things you'd expect from a frontend (savestate management, pausing, screenshots, etc..).
+m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand new mupen64plus frontend written in Qt5. It supports all of the things you'd expect from a frontend (savestate management, pausing, screenshots, etc.).
 
 m64p comes bundled with [GLideN64](https://github.com/gonetz/GLideN64) for the graphics plugin. It should give you the best out-of-the-box experience available for N64 gaming.
 
@@ -12,8 +12,8 @@ If you've ever used any version of mupen64plus before, you might have a configur
 
 ### Compatibility ###
 
-This is likely the most compatible N64 emulator you're going to come across. It can play games like Resident Evil 2, Rogue Squadron, Pokemon Snap, and World Driver Championship "out-of-the-box" (without the need to fiddle with settings, plugins or anything of the sort).
+This is likely the most compatible N64 emulator you're going to come across. It can play games like Resident Evil 2, Rogue Squadron, Pokemon Snap, and World Driver Championship "out-of-the-box" (without the need to fiddle with settings, plugins, or anything of the sort).
 
 Give it a try, you won't be disappointed. There is no installer, just unzip and play!
 
-If you run into any issues, I would love to hear about it [here](https://github.com/m64p/mupen64plus-GLideN64/issues)
+If you run into any issues, I would love to hear about it [here](https://github.com/m64p/mupen64plus-GLideN64/issues).

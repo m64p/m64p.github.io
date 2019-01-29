@@ -20,4 +20,4 @@ If you run into any issues, I would love to hear about it [here](https://github.
 
 ### Patreon ###
 
-The downloads on this site are hosted on Amazon S3. Due to the popularity of m64p, it is costing me about $10 USD a month to run this site. Please consider visiting https://www.patreon.com/m64p and helping out with the hosting costs.
+The downloads on this site are hosted on Amazon S3. Due to the popularity of m64p, it is costing me about $10 USD a month to run this site. Please consider visiting [https://www.patreon.com/m64p](https://www.patreon.com/m64p) and helping out with the hosting costs.

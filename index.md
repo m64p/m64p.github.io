@@ -17,3 +17,7 @@ This is likely the most compatible N64 emulator you're going to come across. It 
 Give it a try, you won't be disappointed. There is no installer, just unzip and play!
 
 If you run into any issues, I would love to hear about it [here](https://github.com/m64p/mupen64plus-GLideN64/issues).
+
+### Patreon ###
+
+The downloads on this site are hosted on Amazon S3. Due to the popularity of m64p, it is costing me about $10 USD a month to run this site. Please consider visiting https://www.patreon.com/m64p and helping out with the hosting costs.

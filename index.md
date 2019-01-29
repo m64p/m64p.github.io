@@ -20,7 +20,7 @@ If you run into any issues, I would love to hear about it [here](https://github.
 
 ### Patreon ###
 
-Download links are available to Patreon subscribers via the posts on [this page](https://www.patreon.com/m64p). I will work my best to keep m64p updated with the latest developments from mupen64plus and GLideN64, I will also work on improving the GUI and making emulation accuracy improvements.
+Download links are available to Patreon subscribers via the posts on [this page](https://www.patreon.com/m64p/posts). I will work my best to keep m64p updated with the latest developments from mupen64plus and GLideN64, I will also work on improving the GUI and making emulation accuracy improvements.
 
 ### Bug Reports ###
 

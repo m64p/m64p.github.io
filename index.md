@@ -20,4 +20,10 @@ If you run into any issues, I would love to hear about it [here](https://github.
 
 ### Patreon ###
 
-The downloads on this site are hosted on Amazon S3. Due to the popularity of m64p, it is costing me about $10 USD a month to run this site. Please consider visiting [https://www.patreon.com/m64p](https://www.patreon.com/m64p) and helping out with the hosting costs.
+Download links are available to Patreon subscribers via the posts on [this page](https://www.patreon.com/m64p). I will work my best to keep m64p updated with the latest developments from mupen64plus and GLideN64, I will also work on improving the GUI and making emulation accuracy improvements.
+
+### Bug Reports ###
+
+Bugs can be filed by Patreon subscribers at [https://www.patreon.com/m64p/community](https://www.patreon.com/m64p/community).
+
+If it is a bug relate to the GUI it can be filed [here](https://github.com/m64p/mupen64plus-gui/issues)

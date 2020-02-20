@@ -16,14 +16,8 @@ This is likely the most compatible N64 emulator you're going to come across. It 
 
 Give it a try, you won't be disappointed. There is no installer, just unzip and play!
 
-If you run into any issues, I would love to hear about it [here](https://github.com/m64p/mupen64plus-GLideN64/issues).
-
-### Patreon ###
-
-Download links are available to Patreon subscribers via the posts on [this page](https://www.patreon.com/m64p/posts). I will work my best to keep m64p updated with the latest developments from mupen64plus and GLideN64, I will also work on improving the GUI and making emulation accuracy improvements.
-
 ### Bug Reports ###
 
-Bugs can be filed by Patreon subscribers at [https://www.patreon.com/m64p/community](https://www.patreon.com/m64p/community).
+Bugs can be filed at [https://github.com/loganmc10/m64p/issues](https://github.com/loganmc10/m64p/issues).
 
 If it is a bug relate to the GUI it can be filed [here](https://github.com/m64p/mupen64plus-gui/issues)

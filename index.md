@@ -8,7 +8,7 @@ m64p comes bundled with [GLideN64](https://github.com/gonetz/GLideN64) for the g
 
 ### Netplay and Patreon ###
 
-m64p now includes netplay! No need to worry about hosting a server. The server is hosted in the cloud. Netplay is free to use and is included in the latest builds of m64p. You can support the project on Patreon here: https://www.patreon.com/m64p
+m64p now includes netplay! No need to worry about hosting a server. The server is hosted in the cloud. Netplay is free to use and is included in the latest builds of m64p. You can support the project on Patreon [here](https://www.patreon.com/m64p)
 
 ### Starting with a fresh config ###
 

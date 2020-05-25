@@ -10,6 +10,8 @@ m64p comes bundled with [GLideN64](https://github.com/gonetz/GLideN64) for the g
 
 m64p now includes netplay! No need to worry about hosting a server. The server is hosted in the cloud. Netplay is free to use and is included in the latest builds of m64p. You can support the project on Patreon [here](https://www.patreon.com/m64p)
 
+Wanting to play online? Come join the #netplay channel on Discord: [https://discord.gg/B5svWhR](https://discord.gg/B5svWhR). New rooms are announced in this channel when they are created.
+
 ### Starting with a fresh config ###
 
 If you've ever used any version of mupen64plus before, you might have a configuration file saved on your computer. I suggest starting with a fresh config if this is your first time here. Go to ***Settings->Core and Plugin Settings***. At the bottom click on ***Reset All Settings***.

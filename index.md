@@ -25,5 +25,3 @@ Give it a try, you won't be disappointed. There is no installer, just unzip and 
 ### Bug Reports ###
 
 Bugs can be filed at [https://github.com/loganmc10/m64p/issues](https://github.com/loganmc10/m64p/issues).
-
-If it is a bug relate to the GUI it can be filed [here](https://github.com/m64p/mupen64plus-gui/issues)

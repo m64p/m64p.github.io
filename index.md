@@ -14,7 +14,7 @@ Wanting to play online? Come join the #netplay channel on Discord: [https://disc
 
 ### Starting with a fresh config ###
 
-If you've ever used any version of mupen64plus before, you might have a configuration file saved on your computer. I suggest starting with a fresh config if this is your first time here. Go to ***Settings->Core and Plugin Settings***. At the bottom click on ***Reset All Settings***.
+If you've ever used any version of mupen64plus before, you might have a configuration file saved on your computer. I suggest starting with a fresh config if this is your first time here. Go to ***Settings->Advanced Settings***. At the bottom click on ***Reset All Settings***.
 
 ### Compatibility ###
 

@@ -1,6 +1,8 @@
-## Welcome to m64p (mupen64plus + GLideN64 + a GUI)
+---
+layout: default
+---
 
-The links to download binary builds for Windows and Linux are in the sidebar.
+## Welcome to m64p (mupen64plus + GLideN64 + a GUI)
 
 m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand new mupen64plus frontend written in Qt5. It supports all of the things you'd expect from a frontend (savestate management, pausing, screenshots, etc.).
 

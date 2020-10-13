@@ -1,3 +1,6 @@
-theme: jekyll-theme-architect
-title:         m64p
-description:      mupen64plus + GLideN64 + a GUI!
+title: m64p
+description: An easy to use N64 emulator.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+download_url: https://github.com/loganmc10/m64p/releases

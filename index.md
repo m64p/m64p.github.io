@@ -4,7 +4,7 @@ layout: default
 
 m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand new mupen64plus frontend written in Qt5. It supports all of the things you'd expect from a frontend (savestate management, pausing, screenshots, etc.).
 
-m64p comes bundled with [GLideN64](https://github.com/gonetz/GLideN64) for the graphics plugin. It should give you the best out-of-the-box experience available for N64 gaming.
+m64p comes bundled with [paraLLEl-RDP](https://github.com/Themaister/parallel-rdp) for graphics. It should give you the best out-of-the-box experience available for N64 gaming.
 
 ### Netplay and Patreon ###
 

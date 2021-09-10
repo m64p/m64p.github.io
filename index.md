@@ -6,13 +6,17 @@ m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand ne
 
 m64p comes bundled with [paraLLEl-RDP](https://github.com/Themaister/parallel-rdp) for graphics. It should give you the best out-of-the-box experience available for N64 gaming.
 
+### Discord ###
+
+Come chat with the community at: https://discord.gg/tsR3RtYynZ
+
 ### Netplay and Patreon ###
 
 You can read the netplay wiki [here](https://github.com/loganmc10/m64p/wiki/Netplay-Guide)
 
 m64p now includes netplay! No need to worry about hosting a server. The server is hosted in the cloud. Netplay is free to use and is included in the latest builds of m64p. You can support the project on Patreon [here](https://www.patreon.com/m64p)
 
-Wanting to play online? Come join the #netplay channel on Discord: [https://discord.gg/B5svWhR](https://discord.gg/B5svWhR). New rooms are announced in this channel when they are created.
+Wanting to play online? Come join the #netplay channel on Discord: [https://discord.gg/tsR3RtYynZ](https://discord.gg/tsR3RtYynZ). New rooms are announced in this channel when they are created.
 
 ### Compatibility ###
 

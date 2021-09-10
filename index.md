@@ -8,7 +8,7 @@ m64p comes bundled with [paraLLEl-RDP](https://github.com/Themaister/parallel-rd
 
 ### Discord ###
 
-Come chat with the community at: https://discord.gg/tsR3RtYynZ
+Come chat with the community at: [https://discord.gg/tsR3RtYynZ](https://discord.gg/tsR3RtYynZ)
 
 ### Netplay and Patreon ###
 

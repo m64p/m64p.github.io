@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/m64p)
 
 m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand new mupen64plus frontend written in Qt5. It supports all of the things you'd expect from a frontend (savestate management, pausing, screenshots, etc.).
 

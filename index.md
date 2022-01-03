@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/m64p)
-
 m64p uses [mupen64plus-gui](https://github.com/m64p/mupen64plus-gui), a brand new mupen64plus frontend written in Qt5. It supports all of the things you'd expect from a frontend (savestate management, pausing, screenshots, etc.).
 
 m64p comes bundled with [paraLLEl-RDP](https://github.com/Themaister/parallel-rdp) for graphics. It should give you the best out-of-the-box experience available for N64 gaming.
+### System Requirements ###
+
+m64p has higher system requirements than most N64 emulators. Your GPU needs to support Vulkan 1.1, and you need a fairly good CPU to run the games at full speed. If nothing happens when you go to start a game, it is likely because your GPU doesn't support Vulkan 1.1.
 
 ### Discord ###
 

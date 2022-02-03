@@ -28,4 +28,4 @@ Give it a try, you won't be disappointed. There is no installer, just unzip and 
 
 ### Bug Reports ###
 
-Bugs can be filed at [https://github.com/m64p/m64p/issues](https://github.com/loganmc10/m64p/issues).
+Bugs can be filed at [https://github.com/m64p/m64p/issues](https://github.com/m64p/m64p/issues).

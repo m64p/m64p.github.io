@@ -3,4 +3,4 @@ description: An easy to use N64 emulator. Available for Windows and Linux
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-download_url: https://github.com/loganmc10/m64p/releases
+download_url: https://github.com/m64p/m64p/releases

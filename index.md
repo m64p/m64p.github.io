@@ -14,7 +14,7 @@ Come chat with the community at: [https://discord.gg/tsR3RtYynZ](https://discord
 
 ### Netplay and Patreon ###
 
-You can read the netplay wiki [here](https://github.com/loganmc10/m64p/wiki/Netplay-Guide)
+You can read the netplay wiki [here](https://github.com/m64p/m64p/wiki/Netplay-Guide)
 
 m64p now includes netplay! No need to worry about hosting a server. The server is hosted in the cloud. Netplay is free to use and is included in the latest builds of m64p. You can support the project on Patreon [here](https://www.patreon.com/m64p)
 
@@ -28,4 +28,4 @@ Give it a try, you won't be disappointed. There is no installer, just unzip and 
 
 ### Bug Reports ###
 
-Bugs can be filed at [https://github.com/loganmc10/m64p/issues](https://github.com/loganmc10/m64p/issues).
+Bugs can be filed at [https://github.com/m64p/m64p/issues](https://github.com/loganmc10/m64p/issues).

@@ -16,7 +16,7 @@ Come chat with the community at: [https://discord.gg/tsR3RtYynZ](https://discord
 
 You can read the netplay wiki [here](https://github.com/m64p/m64p/wiki/Netplay-Guide)
 
-m64p now includes netplay! No need to worry about hosting a server. The server is hosted in the cloud. Netplay is free to use and is included in the latest builds of m64p. You can support the project on Patreon [here](https://www.patreon.com/m64p)
+m64p now includes netplay! No need to worry about hosting a server. The server is hosted in the cloud. Netplay is free to use and is included in the latest builds of m64p. You can support the project on Patreon [here](https://www.patreon.com/loganmc10)
 
 Wanting to play online? Come join the #netplay channel on Discord: [https://discord.gg/tsR3RtYynZ](https://discord.gg/tsR3RtYynZ). New rooms are announced in this channel when they are created.
 

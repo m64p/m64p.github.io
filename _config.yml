@@ -1,6 +1,2 @@
-title: m64p
-description: An easy to use N64 emulator. Available for Windows and Linux
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
-download_url: https://github.com/m64p/m64p/releases
+gems:
+  - jekyll-redirect-from
